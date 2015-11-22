@@ -5,3 +5,6 @@ def myfunc(x):
 
 def helloworld():
     print "Hello World!"
+
+for i in range(20):
+	j = myfunc(i)
